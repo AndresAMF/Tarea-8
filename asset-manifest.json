@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tarea-8/static/css/main.15d1de93.css",
+    "main.js": "/Tarea-8/static/js/main.a61a4755.js",
+    "static/js/787.4a337d36.chunk.js": "/Tarea-8/static/js/787.4a337d36.chunk.js",
+    "static/media/footer.jpg": "/Tarea-8/static/media/footer.5b737e6d2ce4f4a83069.jpg",
+    "static/media/sucursal.jpg": "/Tarea-8/static/media/sucursal.11eb4676bc5cdea0a90d.jpg",
+    "static/media/bmwi4.jpg": "/Tarea-8/static/media/bmwi4.abb7f334f53f264c1b29.jpg",
+    "static/media/bmw.jpg": "/Tarea-8/static/media/bmw.0e11c62907d22a721cf7.jpg",
+    "static/media/bmw4.webp": "/Tarea-8/static/media/bmw4.e4a8e219ae9a218811ef.webp",
+    "static/media/logo-light.svg": "/Tarea-8/static/media/logo-light.bc678c87c4542ed5744eb1d5a9916960.svg",
+    "index.html": "/Tarea-8/index.html",
+    "main.15d1de93.css.map": "/Tarea-8/static/css/main.15d1de93.css.map",
+    "main.a61a4755.js.map": "/Tarea-8/static/js/main.a61a4755.js.map",
+    "787.4a337d36.chunk.js.map": "/Tarea-8/static/js/787.4a337d36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d1de93.css",
+    "static/js/main.a61a4755.js"
+  ]
+}
